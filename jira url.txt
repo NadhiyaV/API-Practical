@@ -1,0 +1,15 @@
+https://nadhiya124.atlassian.net/jira/projects?selectedProjectType=business
+
+https://nadhiya124.atlassian.net/jira/your-work
+
+https://nadhiya124.atlassian.net/jira/software/c/projects/ECS/boards/3
+
+
+https://github.com/Deepakhr/GUIFramework.git 
+
+
+
+//div[text()='SAMSUNG Galaxy F34 5G (Electric Black, 128 GB)']/ancestor::div[@data-id="MOBGRZMYJM3KFVE3"]/descendant::div[@class="Nx9bqj _4b5DiR"]
+
+
+//a[text()='realme P1 Pro 5G (Phoenix Red, 128 GB)']/ancestor::div[@class='_0A7OCE']/descendant::div[@class='Nx9bqj']
